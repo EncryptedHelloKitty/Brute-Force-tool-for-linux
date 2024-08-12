@@ -9,6 +9,7 @@ This repository contains a Linux Python-based brute-force tool developed for edu
 - **Set Up Your Project Directory**
 - **Create a Python Virtual Environment**
 - **Install Necessary Python Libraries i.e.** "pip install requests" and "pip install paramiko"
+- **Download rockyou.txt before executing the code** https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
 ## Features
 - **Custom Wordlist Support:** Use any wordlist to attempt password cracking.
