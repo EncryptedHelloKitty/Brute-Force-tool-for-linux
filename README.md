@@ -5,6 +5,11 @@ This repository contains a Linux Python-based brute-force tool developed for edu
 
 > **Disclaimer:** This tool is intended for ethical hacking and educational purposes only. Unauthorized use of this tool on systems you do not own or have explicit permission to test is illegal and unethical.
 
+## Important
+- **Set Up Your Project Directory**
+- **Create a Python Virtual Environment**
+- **Install Necessary Python Libraries i.e.** "pip install requests" and "pip install paramiko"
+
 ## Features
 - **Custom Wordlist Support:** Use any wordlist to attempt password cracking.
 - **HTTP Brute-Forcing:** Automate login attempts on web forms.
